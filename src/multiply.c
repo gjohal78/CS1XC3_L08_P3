@@ -16,6 +16,7 @@ int main(int argc, char *argv[])
   int m = 0;
 
   // if argument number is incorrect output this notice
+  // random comment for push
   if (argc != 2) 
   {
     printf("Incorrect number of arguments provided.\n");
